@@ -1,0 +1,9 @@
+== TODO ==
+
+- cod git []
+- checar funcao montar nome []
+- medidas possiveis no readme com exemplos []
+- ordem dos valores na tabela []
+- visualização da rede sumo []
+
+
